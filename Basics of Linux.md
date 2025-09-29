@@ -28,7 +28,8 @@ Use the copy button in each code block to run commands directly.
 - `sudo` — "Super User Do" (administrator access)  
 - `clear` — Clears current terminal screen  
 - `pwd` — Prints current working directory .  
-- `ls` — Lists contents of current directory .  
+- `ls` — Lists contents of current directory .
+- `ls -a` — Lists hidden contents of current directory .    
 - `mkdir` — Creates a new directory (folder)  
 - `cd` — Change directory to the entered folder   
 - `rmdir` — Deletes empty directory  
