@@ -45,3 +45,9 @@ Use the copy button in each code block to run commands directly.
 ### Step 1 — Update & upgrade packages
 ```bash
 sudo apt update && sudo apt upgrade
+
+### Step 2 — (Optional) Install GEdit
+```bash
+sudo apt install gedit
+
+  
