@@ -27,10 +27,10 @@ Use the copy button in each code block to run commands directly.
 - `whoami` — Displays current username  
 - `sudo` — "Super User Do" (administrator access)  
 - `clear` — Clears current terminal screen  
-- `pwd` — Prints current working directory (Aap kis folder mein ho).  
-- `ls` — Lists contents of current directory (Tere folder ke andr kya kya files ya folders hain).  
+- `pwd` — Prints current working directory .  
+- `ls` — Lists contents of current directory .  
 - `mkdir` — Creates a new directory (folder)  
-- `cd` — Change directory to the entered folder (MATLAB kisi folder mein ghusna)  
+- `cd` — Change directory to the entered folder   
 - `rmdir` — Deletes empty directory  
 - `cp` — Copy file or folder to another location  
 - `apt` — Advanced Package Tool (for installing packages on Debian/Ubuntu)  
