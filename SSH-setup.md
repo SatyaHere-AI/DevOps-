@@ -33,9 +33,9 @@ ssh-keygen -t ed25519 -C "abo@gmail.com"
 ## ⌨️ Step 3: Accept Defaults
 After running the command:
 (Press Enter 3 times)
-1.Press Enter to accept the default file location.
-2.Press Enter to skip creating a passphrase (optional).
-3.Press Enter again to confirm.
+1. Press Enter to accept the default file location.
+2. Press Enter to skip creating a passphrase (optional).
+3. Press Enter again to confirm.
 
 You should see output like:
 
@@ -67,10 +67,10 @@ notepad id_ed25519.pub
 
 ## 🔐 Step 5: Add SSH Key to GitHub
 
-1.Go to GitHub SSH keys settings
-2.Paste the key into the "Key" field.
-3.Give it a recognizable Title (e.g., My Windows Laptop).
-4.Click "Add SSH key".
+1. Go to GitHub SSH keys settings
+2. Paste the key into the "Key" field.
+3. Give it a recognizable Title (e.g., My Windows Laptop).
+4. Click "Add SSH key".
 
 ## ✅ Step 6: Test SSH Connection(Optional)
 
