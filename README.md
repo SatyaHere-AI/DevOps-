@@ -50,5 +50,17 @@ sudo apt update && sudo apt upgrade
 ### Step 2 — (Optional) Install GEdit
 ```bash
 sudo apt install gedit
+```
+
+### Step 3 — Install build essentials
+```bash
+sudo apt install build-essential
+```
+### Step 4 — Check Python version
+```bash
+python --version
+```
+
+
 
   
