@@ -52,10 +52,36 @@ cat ~/.ssh/id_ed25519.pub | clip
 ✅ Option 2:
 ```bash
 clip < ~/.ssh/id_ed25519.pub
+```
 ⚠️ If clip doesn't work:
 
-Navigate to your .ssh folder:
+• Navigate to your .ssh folder:
 ```bash
 cd ~/.ssh
-
 ```
+• Open id_ed25519.pub in a text editor:
+```bash
+notepad id_ed25519.pub
+```
+• Manually copy the contents.
+
+## 🔐 Step 5: Add SSH Key to GitHub
+
+1.Go to GitHub SSH keys settings
+2.Paste the key into the "Key" field.
+3.Give it a recognizable Title (e.g., My Windows Laptop).
+4.Click "Add SSH key".
+
+## ✅ Step 6: Test SSH Connection(Optional)
+
+Run the following to test:
+```bash
+ssh -T git@github.com
+```
+You should see something like:
+```bash
+Hi your-username! You've successfully authenticated, but GitHub does not provide shell access.
+```
+👋 Questions?
+
+Feel free to open an issue or discussion in this repo for help!
