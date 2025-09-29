@@ -60,7 +60,24 @@ sudo apt install build-essential
 ```bash
 python --version
 ```
+### Step 5 — Check pip
+```bash
+pip3 --version
+```
+### Step 6 — If pip not present, install it
+```bash
+sudo apt install python3-pip
+```
+### Step 7 — Install Git
+```bash
+sudo apt install git
+```
+### Step 8 — Configure Git username and email
+```bash
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+```
+### ⭐ Contribute
 
-
-
+If you have extra useful commands or shortcut tips, feel free to fork this repo and make a pull request!
   
