@@ -5,11 +5,11 @@ Use the copy button in each code block to run commands directly.
 
 ---
 
+
 ## Table of contents
 1. [Basic Shortcut Keys](#basic-shortcut-keys)  
 2. [Basic Commands — Meaning](#basic-commands-meaning)  
 3. [Step-by-step: Commands to run in Terminal](#step-by-step-commands-in-terminal)  
-
 
 ---
 
